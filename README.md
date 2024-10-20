@@ -1,4 +1,4 @@
-![MasterHead](https://pbs.twimg.com/media/GaF67fQbIAAy3-4?format=jpg&name=large)
+![MasterHead](https://pbs.twimg.com/media/GaAOgJzbYAE3pni?format=jpg&name=large)
 <h1 align="center">Hi 👋, I'm Anuraj Upadhyay</h1>
 <h3 align="center">Aspiring Full-Stack Developer</h3>
 

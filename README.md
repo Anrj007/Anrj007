@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/anrj007" target="blank"><img src="https://img.shields.io/twitter/follow/anrj007?logo=twitter&style=for-the-badge" alt="anrj007" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://anrj007.github.io/](https://anrj007.github.io/)
+- More about Me[https://anrj007.github.io/](https://anrj007.github.io/)
 
-- 📫 How to reach me **anurajupadhyay6@gmail.com**
+- How to reach me **anurajupadhyay6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

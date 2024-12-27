@@ -1,5 +1,4 @@
 ![MasterHead](https://pbs.twimg.com/media/GaAOgJzbYAE3pni?format=jpg&name=large)
-<h1 align="center">👋, I'm Anuraj Upadhyay</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/anrj007" target="blank"><img src="https://img.shields.io/twitter/follow/anrj007?logo=twitter&style=for-the-badge" alt="anrj007" /></a> </p>
